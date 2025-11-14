@@ -6,6 +6,8 @@
 	- Check if Recording
 	- Check Virtual Cam
 	- Ensure that Livesplit Server is up
+<img src="Src/TCPServer.png" alt="Board1 Image (Check Path)" width="300"/>
+* Prologue
 * Prologue
 	* 1: U Z D R D Z
 	* 2: R U Z D D Z
@@ -14,28 +16,22 @@
 ## CH1 - Fields ##
 Pick up Top Cake after Rudinn 2
 
-Triple Hathy Encounter
-- Act (get hit)
-- Spare, Defend
-- Spare, Spare
-
-Get Ralsei Closer to Door
-
-Triple Barry Encounter
-- Fight, Fight
-- Act, Spare
+Ralsei Back Turn
+<img src="Src/Ch1-RalseiBackTurn.png" alt="Board1 Image (Check Path)" width="150" height = "150"/>
 
 Jevil Key 1
 - M  R  M  L  R  M  L
 - RSR BSB
 
-Don't Mess Up Rudinn 4
+Rudinn 4
+<img src="Src/Ch1-Rudinn4.gif" alt="Board1 Image (Check Path)" width="300" height = "250"/>
 
 --- 
 ## CH1 - Checkboard ##
 Same as Any%
 
 Get Susie Death!
+<img src="Src/Ch1-SusieDeath.png" alt="Board1 Image (Check Path)" width="300"/>
 
 --- 
 ## CH1 - Forest ##
@@ -47,16 +43,20 @@ Grab Jevil Key 2
 
 Thrash Machine
 * Select Flame Head! (Third Choice)
+<img src="Src/Ch1-FlameHead.png" alt="Board1 Image (Check Path)" width="300" height="250"/>
 
 --- 
 ## CH1 - Escape ##
-Susie Puzzle
-- Left, Right, Up, Left
+Cell Actions
+<img src="Src/Ch1-CellAct.png" width="300" height ="250"/>
+- Interact Chain Twice
+- Obtain IronShackle
 
+Susie Puzzle
+<img src="Src/Ch1-SusiePuzzle.png" width="300" height ="250"/>
+- LEFT, RIGHT, UP, LEFT
 --- 
 ## CH1 - Enter Jevil ##
-Turn on Auto Run
-
 GO TO JEVIL RIGHT AWAY (Top Elevator Choicer)
 Return (Right Elevator Choicer)
 
@@ -77,17 +77,20 @@ Pirouette (TL): 20
 
 --- 
 ## CH1 - Castle ##
-ARSS HHS
+HHS
+<img src="Src/Ch1-HHS.gif" width="300" height ="250"/>
 
 GET REVIVEMINT
+<img src="Src/Ch1-ReviveMint.gif" width="300" height ="250"/>
+<img src="Src/Ch1-ReviveMint.png" width="300" height ="150"/>
 
 Buy BraveAx (2nd) & 2 Amber Cards (Bottom)
+<img src="Src/Ch1-Rouxls.png" width="300" height ="250"/>
 
-Turn off Autorun after leaving the shop
 
 --- 
 ## CH1 - King ##
-
+<img src="Src/Ch1-King.png" width="300" height ="250"/>
 9 Turn (10 if missed)
 - Red + Fight Early
 - Red + Fight on second box bounce attack
@@ -96,31 +99,40 @@ Turn off Autorun after leaving the shop
 ## End CH1 ##
 RUN!
 
+SWAP TO ENGLISH!
+
 --- 
 ## CH2 - Punch Out ##
-Werewire Encounter (2 Turn Possible)
-- Fight, Fight (Crit)
-- Defend, Rude Buster
+Werewire Encounter (TADYWIRE)
+<img src="Src/Ch2-TadyWire.png" width="300" height ="80"/>
+- JiggleJiggle (Top, TR), Fight (Bot)
+- JiggleJiggle (Top, TR), Spare (Top)
+- Fight All
+
+Punch-Out
+<img src="Src/Ch2-PO-Q1.png" width="300" height ="200"/>
 
 Minigame
+<img src="Src/Ch2-Bosom.png" width="300" height ="75"/>
 - Left Choicer ("Bosom")
 
 --- 
 
 ## CH2 - Berdly 1 ##
-DJ Fight
+<img src="Src/Ch2-Djs.png" width="300" height ="180"/>
 - DanceX Middle
 - S-Action, R-Action on Top, Bottom
 
 Buy Weapons ($500)
+<img src="Src/Ch2-Shop.png" width="300" height ="150"/>
 * AutoAx
 * MechaSaber
 
-To-Do
+Smorgasboard Cycle Skip (SCS)
+<img src="Src/Ch2-SCS.gif" width="300" height ="180"/>
 * Get TensionBit
 * Werewire Skip
-* Get Ragger2
-* Equip!
+* Get Ragger2 (Equip All)
 
 Fight Berdly Optimal
 * Fight ALL
@@ -132,31 +144,23 @@ Fight Berdly Optimal
 Obtain Jevilstail & IronShackle from Susie (use Amber Cards)
 
 Mouse 1 Puzzle
+<img src="Src/Ch2-TilePuzzle1.png" width="300" height ="150"/>
 - D1, R1, Send
 
 Barrier Equip
+<img src="Src/Ch2-Barrier.png" width="300" height ="150"/>
+- Equip on Barrier Scene
 - Kris: IronShackle, Pink Ribbon
 - Noelle: Jevilstail
 
-Werewire Skip
-- Stay Top
-
 Mouse 2 Puzzle (DDS)
-\=====
-
-0  1  0  1  0 
-0  0  0  0  0  0  0  1
-1  0  0  0  1  0  0  0
-0  0  1  0  0  0  0  1
-
-\=====
+<img src="Src/Ch2-MousePuzzle3.png" width="300" height ="200"/>
 
 --- 
 ## CH2 - Spamton ##
-Berdly 2 (Unplug Rudy Strats 70%)
-- Defend, IceShock (BR)
-- Fight, IceShock (BR)
-- Fight, IceShock (BR)
+Berdly 2 (Unplug Rudy Strat)
+- PlaySmart
+- Fight, Iceshock (BR) - LOOP
 
 GET JEVILSTAIL OFF NOELLE!!!
 
@@ -183,23 +187,33 @@ Mouse Encounter
 ## CH2 - Disk Get ##
 Buy KeyGen (TRASH ZONE - TOP)
 - Mash for 100 Kromer price
-- Buy BSHOT Bowtie
+- Buy 4x BSHOT Bowtie
+
+Mansion (LEFT)
 
 Tasque Manager
+<img src="Src/Ch2-TasqueManager.png" width="300" height ="200"/>
 - Left, Bottom, Left
 
-GET THE DISK!
+SPOT
+<img src="Src/Ch2AB-Spot.png" width="300" height ="200"/>
+
+GET THE DISK! (Equip Bowties) 
+- RIGHT ROOM!
 
 --- 
 ## CH2 - Spamton NEO ##
+
+(TRASH ZONE - TOP)
+(Mansion - LEFT)
 
 Spamton
 - SnapALL (BL)
 
 Equip Change
+- Kris: PinkRibbon, FrayedBowtie
 - Susie: Jevilstail, Dealmaker
-- Ralsei: FrayedBowtie, Amber Card
-
+- Ralsei: FrayedBowtie, FrayedBowtie
 
 --- 
 ## CH2 - Mansion ##
@@ -226,25 +240,36 @@ Lesbian Skip
 Werewire Skip
 - BE PATIENT!
 
-AB Queen (5 Turn 1 Shield)
-   1: Fight, Fight, Defend 
-   2: Fight, Rude Buster, Fight
-   3 [SD]: Fight, Rude Buster, Fight
-   4: Fight, Fight, Defend
-   5: RedBuster, Fight (CRIT!)
+AB Queen (6 Turn 1 Shield)
+   1 (2 Crit Bank): Fight, Fight, Defend (Graze 50%)
+   2 (2 Crit Bank): Fight, RudeBuster, Fight
+   3 SD: Fight, RudeBuster, Fight
+   4: Fight, Fight Defend
+   5: Red Buster Fight
 
 --- 
 ## CH2 - Giga Queen ##
 Round 1
 - 1: Fight (Crit)
 - 2: Fight (Crit) (leave at low hp)
-- 3: Defend
+- 3: Defend (MASH)
 Round 2
 - 1: Flame Mode
 - 2: Fight
 Round 3
 - 1: Flame Mode (graze to 50)
 - 2: Flame Mode (Get hit on Ult)
+
+MISSED BASEBALL SKIP BACKUP
+R1
+- 1 + 2: Fight
+- 3: Mash Fight
+R2
+- Flame
+- Defend
+R3
+- Flame
+- Flame (or Attack)
 
 --- 
 ## End CH2 ##
@@ -257,141 +282,157 @@ New Home
 
 ---
 ## CH3 - Board 1 ##
-JP saves 10 seconds
+Optimal Path
+- Drink the Fountain
+- Get Cactus Key
+- Quiz (Safety): Mr. Tenna, Marvelous Mystery Board, Lancer
+- Buy 3rd Key
+- Door (Hold Down After Interact)
+- Win the Cooking Show (R for 3 frames)
 
-Elnina/Lanino
-- 1: ILoveTVX
-- Rest: Defend ALL
+<img src="Src/Board1-Game.png" alt="Board1 Image (Check Path)" width="300"/>
 
-Shadowguy (left) [try to get 66 TP]
-- 1: Defend, S-Action, Pacify
-- 2: Defend, S-Action, Pacify
+Lanino/Elnina (R Fast by 1 Frame)
+- Def, Def, R-Act. THEN, Def ALL
+- Mash C on Turns: 3, 5, 6, Final
 
-Get Lancer (+key)
-
-Get Shop Key
-
-Quizes for Safety
-
-Door to Cooking Show (right choicer)
-
-Cooking Show 
-- Stack and throw at special guest
+Shadowguys Encounter (66 TP)
+- Defend, S-Action, Pacify x2
 
 --- 
 ## CH3 - Sword 1 ##
-Left Path below Cactus Room for Sword
+Buy the following: 
+- LodeStone x3 ($880 DD)
+- POINTS in S-Rank
 
-Don't go to ride side until Lancer Room is cleared
+Interact with RAMB from the left
+
+Kill Route
+- Up, Left, Up, Up, Lancer (UP)
+- Down, Right, Up, Right, Down, Down, Bridge (Left)
+- Bridge, Right, Down, Down, Up, Right, Cactus
+<img src="Src/Board1_1.png" alt="Board1 Image (Check Path)" width="300"/>
+<img src="Src/Board1_2.png" alt="Board1 Image (Check Path)" width="300"/>
 
 --- 
 ## CH3 - Board 2 ##
 Get A Rank for TensionGem
 
-To-Do
-- Get Camera
-- Get Cactus Photo
-- Go to Raft Path
-- Pippins Encounter
-- "I want everything..." (Right)
-- Flower Photo
-- Red Thing Photo
-- Shuttah Encounter
+Optimal Path
+- Camera, Cactus, Right Spawn
+- Puzzle
+<img src="Src/Board2-Puzzle.png" alt="Board2 Image (Check Path)" width="300"/>
+- Deodorant is faster by 0.5 secs
+- "I want everything back to normal" (R Choicer)
+- Flower, Red Horns, Raft
 
 Encounters
-===
-Pippins x2
-- Spare, S-Act, R-Act x3
-Shuttah
-- SpareAll x3
-- Spare, Spare, Defend
+- Pippins: Spare, S-Act, R-Act x3
+- Shuttah: SpareAll x3; Spare, Space, Def
 
 --- 
 ## CH3 - Sword 2 ##
-Wing it
+Board 2
+<img src="Src/Board2_1.png" alt="Board2 Image (Check Path)" width="300"/>
 
-Noelle Order
-- U  U  L  R  R  D  R
+Raft
+- Left (6x)
+- Up-Left (2-Left)
+- Up (Space between LV-Bar & Key)
+
+Board 2D
+<img src="Src/Board2D.png" alt="Board2 Image (Check Path)" width="300"/>
+- Noelle Hallway: UULRRDR
 
 --- 
 ## CH3 - Xbox turn off! ##
-Before Board 3ish
-- Push their Buttons (right)
-- 213 Code
-- Ralsei Yap (up)
-- 1225 Code
-Board 3 Autoscroller
-- TEXT MASH
-- Both Quizes: Mash
-- Tenna Encounter: Mash
-- Enemy 1: SharpShoot (Tenna only)
-- Enemy 2: Volume Up, TurnOff
+Zapper: Right Choicer x2
+- Buy: All Weapons + TV SLOP
+
+Code 1: 213
+Ralsei: Top Choicer
+Code 2: 1225
+
+Board 3
+- Mash Quizzes 
+- ShadowGuy: SharpShoot (BL) then Tenna only
+- Zapper: VolumeUp (TR), TurnOff (BR)
 
 --- 
 ## CH3 - TV World ##
 Quiz 1: B, A
-Shadowguy Houses
-- Use their shadows
+
+Shadowguy/PippinsX2
+- Defend, S-Act, Pacify
+- Spare, S-Act, R-Act x2
+
 Raibbick 
 - CroakOn, S-Act, Spare
-After Zippers Room Path
-- Bottom, Top, TOp
+
+Zappers Room Quizzes: Bottom, Top , Top
 
 Rouxls
 - Hit 5/6 Lancers
 - Get hit on yarn attack to encounter skip
 - Mash Text after cutscene
 
+Tenna Door: 000000
+
 --- 
 ## CH3 - Sword 3 ##
-Bottom Right for Sword
-
-Mash Z after Sword Get
+Board 4
+<img src="Src/Sword3-Board4.png" alt="Board2 Image (Check Path)" width="300"/>
+Sword 3D
+<img src="Src/Sword3D.png" alt="Board2 Image (Check Path)" width="300"/>
 
 --- 
 ## CH3 - Mantle Strikes Back!##
 Don't Interact with Manhole
 
+Don't Die. Don't Greed. LIVE!
+
 --- 
 ## CH3 - Tenna Deez ##
-All Turns: ILoveTV, S-Act, R-Act
+EQUIP
+- Kris: Saber10, PinkRibbon, LodeStone
+- Susie: ToxicAxe, JevilsTail, DealMaker
+- Ralsei: FlexScarf, LodeStone, LodeStone
+
+Fight, Fight, Fight
+Fight, Rude Buster (BL), Fight
 Get hit once on 'turn 2'
 
 --- 
 ## End CH3 ##
-Die to Knight LMAO
+UNSTICKY SHIFT
+<img src="Src/Knight-NohBoard.png" alt="Board2 Image (Check Path)" width="300"/>
 
 --- 
 ## CH4 - Enter Study ##
 Piano 1: ←  ↓  ←  ↓  ←  →
 - LDLDLR
 
-Piano 2: ↑  ↑  ↓  ↓  ←  ←  →  ↑
-- UUDDLLRU
-
-Dark Room:
-- IN:   R U R U L U R U L U R U R
-- OUT:    L D D L D L D L D D L
+Skip 1
+<img src="Src/Ch4-Skip1.png" alt="Board2 Image (Check Path)" width="300"/>
 
 2nd Encounter is skipped by holding DOWN around middle 
-Encounters
-===
-Double Guei 
-- Exercist (B), Fight, Fight
-- Fight, Fight, Pacify (B)
-Double Balthizard
--  Shake, S-Action, Spare
+
+Piano 2: ↑  ↑  ↓  ↓  ←  ←  →  ↑
+- UUDDLLRU
 
 --- 
 ## CH4 - YOUR LONG! ##
 Piano: ←  ↓  ←  →  ↓  ↓  →  →
 - LDLRDDRR 
+- SAVE
 
 Jackenstein
+<img src="Src/Ch4-Jackenstein.png" width="300"/>
 - Brighten: 60 TP
 - Collect ALL
-- Scaredy Cat Strat (not until confident)
 - Use TensionGem + TensionBit
+- Scaredy Cat Strat 
+<img src="Src/Ch4-JackQ1.png" width="300"/>
 - Stop using Scardy Cat after going up the chimney
 
 --- 
@@ -408,17 +449,21 @@ The Fight
 Climb to Right Side 2nd Waterfall
 - Get TensionGem
 
+---
+## CH4 - The Fall ##
+Don't Die.
+
 --- 
 ## CH4 - Seal Fountain 2 ##
 Winglade Encounter
-- SpinS
-- SpinS
-- Spare x2
+- FIGHT
 
 Fake Gerson
-- Left Choicer for hearing test
+<img src="Src/Ch4-BetterHeal.png" width="300"/>
+- Right Choicer for hearing test
 - Kill Susie
 - USE TENSIONGEM
+- BetterHeal (TR): 78% TP
 --- 
 ## CH4 - Start Titan ##
 Jackenstein Climbing
@@ -440,9 +485,15 @@ Titan Spawn
 
 --- 
 ## CH4 - Titan Fight ##
-Titan Fight
-- Unleashed: 80 TP
-- Brighten: 3, 11
+Titan Fight (FIGHT METHOD)
+
+Unleashed (BR): 80 TP 
+<img src="Src/Ch4-TitanActs.png" alt="Board2 Image (Check Path)" width="300"/>
+Brighten Ques
+- TURN 3
+<img src="Src/Ch4-TitanQ1.png" alt="Board2 Image (Check Path)" width="300"/>
+- TURN 11 (AFTER 2 LARGE FISHIES)
+<img src="Src/Ch4-TitanQ2.png" alt="Board2 Image (Check Path)" width="300"/>
 
 --- 
 ## End CH4 ##

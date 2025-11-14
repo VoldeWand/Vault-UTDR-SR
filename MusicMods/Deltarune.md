@@ -1,7 +1,6 @@
 ### Banned Modifications
 cyber.ogg
 mansion.ogg
-
 ## Release Version
 Before The Story (AUDIO_STORY.ogg)
 	Aquatic Sanctuary
@@ -45,12 +44,18 @@ Scarlet Forest (forest.ogg)
 Vs. Lancer (lancerfight.ogg)
 	Robotic Wisp Remix
 	https://youtu.be/JLJwVTTy400
+Basement (basement.ogg)
+	-
+	-
+Imminent Death (tense.ogg)
+	-
+	-
 The Chase (creepychase.ogg)
 	The Chase (SilvaGunner)
 	https://youtu.be/w67j9GVYjWw
 Vs. Suzie (vs_susie.ogg)
-	MEGALOVANIA Susie Remix
-	https://youtu.be/YqzL5wEs6LM
+	MEGALOVANIA VS Susie (FAZZY MIX)
+	https://youtu.be/CSSeTw2gW3c
 Elevator (elevator.ogg)
 	Eclipse
 	https://youtu.be/GRyF3n0iWpE
@@ -58,8 +63,8 @@ Rouxls Kaard (ruruskaado.ogg)
 	Scrapped Theme
 	https://youtu.be/PGF_qdUeSPs
 Card Castle (card_castle.ogg)
-	Rage of the Champions 
-	https://youtu.be/9wMjq58Fjvo
+	City of Tears
+	https://youtu.be/MJDn70jh1V0
 Gallery (GALLERY.OGG)
 	TWILIGHT'S REVERIE
 	https://youtu.be/ETvdJH9pMY8
@@ -73,8 +78,8 @@ A Town Called Hometown (town.ogg)
 	Pollyana Encore Mix
 	https://youtu.be/EpjuaF7veDw
 You Can Always Come Home (home.ogg)
-	Resonance
-	https://youtu.be/8GW6sLrK40k
+	Home SilvaGunner Rip (Bubbly - Colbie Caillat)
+	https://youtu.be/fngmWHUDCFY
 Queen (queen.ogg)
 	Overclocked High Heels
 	https://youtu.be/HfEMwCNPxos
@@ -87,6 +92,9 @@ Smart Race (berdly_chase.ogg)
 WELCOME TO THE CITY (cybercity.ogg)
 	Lofi Lia Remix
 	https://youtu.be/qommbbBWLDo
+Weird Route City (cybercity_alt.ogg)
+	White Palace
+	https://youtu.be/4JWANCA-Pbw
 Mini Studio (cyberhouse.ogg)
 	GlitchxCity Remix
 	https://youtu.be/U0TCtD4M9Ao
@@ -123,24 +131,85 @@ Giga Size (giant_queen_appears.ogg)
 Power Combined (gigaqueen_pre.ogg)
 	ꓘnave Remix
 	https://youtu.be/K7L8RsJvrJo
-Knock You Down!!! (boxing_boss.ogg)
-	RichaadEB Remix
-	https://youtu.be/49WM_uWAjpM
+Knock You Down!!! (boxing_boss.ogg) 
+	Vetrom Remix
+	https://youtu.be/-tkgF2zeriA
 Digital Roots (spamton_basement.ogg)
 	A Link to the Past Arranged - Lost Ancient Ruins
 	https://youtu.be/riCEmVhJj_A
 BIG SHOT (spamton_neo_mix_ex_wip.ogg)
-	NoteBlock Remix
-	https://youtu.be/rQ8LPuiCAVQ
+	SnowGrave Neo
+	https://youtu.be/TnA9ofQ2K5c
+Adventure Board (board_zelda.ogg)
+	Vongola Mix for Deltarune Master Mode
+	https://youtu.be/0CmIEUS3-JY
+Quiz! (TV_GAME.ogg)
+	-
+	-
+Dig! Dig! To The Center of the Earth! (board_lancer_dig.ogg)
+	-
+	-
 Ruder Buster (rudebuster_boss.ogg)
 	SilvaGunner JP Version
 	https://youtu.be/u5CUnY7MpzU
+SWORD (board_sword_music.ogg)
+	The Dark World (Sword SthianFel64 Remix)
+	https://youtu.be/hFmxjAGzIxQ
+Paradise, Paradise (tenna_island.ogg)
+	NoteBlock Mix
+	https://youtu.be/FmNsQ3zPVEk
+GLACEIR (glacier.ogg)
+	Zelda Majora's Mask Cover (Flieen Mix)
+	https://youtu.be/qcA-MYAn964
+Doom Board (board_4.ogg)
+	-
+	-
+Metaphysical Challenge (board_4_challenge.ogg)
+	-
+	-
+TV WORLD (tv_world.ogg)
+	RJ Duske Extended Jazz Arrangement
+	https://youtu.be/fSBLaBfIR8M
+Glowing Snow (tv_results_screen.ogg)
+	-
+	-
+BURNING EYES (nightmare_boss_heavy.ogg)
+	Claire Noelle Remix
+	https://youtu.be/Ihw-IyO7GQ8
+Black Knife (knight.ogg)
+	Kibo Remix
+	https://youtu.be/AsP3YTyEax0
 Dark Sanctuary (church_wip.ogg)
-	NyxTheShield Orchestral Remix
-	https://youtu.be/FreFN6oRTDI
-
-
-### Ch1 Survey Program
+	Oh Boy Yeah Orchestral Cover
+	https://youtu.be/O5fX8YuTkaI
+From Now On (ch4_battle.ogg)
+	The Noble Demon Arrangement
+	https://youtu.be/_fY0UVuXlFM
+A Dark Zone (pumpkin_boss.ogg)
+	SonNeoKaku Mix
+	https://youtu.be/hxYCtgFeEN0
+Hammer of Justice (ch4_extra_boss.ogg)
+	-
+	-
+The Second Sanctuary (second_church.ogg)
+	kayy 2nd Sanctuary Arrangement
+	https://youtu.be/XM6f9LTIVVY
+The Third Sanctuary (church_zone3.ogg)
+	-
+	-
+Heavy Footsteps (titan_pre.ogg)
+	-
+	-
+Crumbling Tower (titan_tower.ogg)
+	-
+	-
+SPAWN (titan_spawn.ogg)
+	Terraria 1.4.5 - Dark Fountain
+	https://youtu.be/QeRRHkhISSc
+GUARDIAN (titan_battle.ogg)
+	-
+	-
+## Ch1 Survey Program
 Drone (AUDIO_DRONE.oog)
 	Aquatic Ambience Big Band Jazz
 	https://youtu.be/5znrVdAtEDI
@@ -204,7 +273,7 @@ A Town Called Hometown (town.ogg)
 You Can Always Come Home (home.ogg)
 	Resonance
 	https://youtu.be/8GW6sLrK40k
-### Ch2 Demo
+## Ch2 Demo
 Rude Buster (battle.ogg)
 	Thanos Deltarune
 	https://youtu.be/DfT4X6kaolQ

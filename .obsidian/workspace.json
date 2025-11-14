@@ -8,20 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab2dca7b996fc52f",
+            "id": "bd55cbade0afad81",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MusicMods/Undertale.md",
+                "file": "SplitGuides/CH2-SnowgraveGlitchless.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Undertale"
+              "title": "CH2-SnowgraveGlitchless"
+            }
+          },
+          {
+            "id": "614b9b6fa1a1cfd0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Quad.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Quad"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +188,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "ab2dca7b996fc52f",
+  "active": "614b9b6fa1a1cfd0",
   "lastOpenFiles": [
+    "Setups/Flowtimer.md",
+    "Setups/Undertale Practice Mod.md",
     "MusicMods/Deltarune.md",
-    "MusicMods/Undertale.md",
+    "SplitGuides/CH2-SnowgraveGlitchless.md",
+    "SplitGuides/AC-AllBosses-Glitchless.md",
+    "SplitGuides/CH3-AllBosses.md",
+    "SplitGuides/AC-MainRoute-Glitchless.md",
+    "SplitGuides/Src/Src/Pasted image 20250806225748.png",
+    "Pasted image 20251030220940.png",
+    "Pasted image 20251030220906.png",
+    "SplitGuides/Src/Ch2-Crit1.png",
+    "SplitGuides/Src/Ch2-Crit2.png",
+    "SplitGuides/Src/Ch2-MausWheelSGG.png",
+    "SplitGuides/Src/Ch2-Maze.png",
+    "SplitGuides/CH2-AllRecruitsGlitchless.md",
+    "SplitGuides/Src/Ch2-SnowGrave.png",
+    "SplitGuides/Src/Ch2-FreezeRing1.png",
+    "SplitGuides/Src/Ch2-SG-TasqueManager.png",
+    "SplitGuides/CH3-AllRecruits.md",
+    "SplitGuides/CH4-AllBossesGlitchless.md",
+    "SplitGuides/CH4-AnyGlitchless.md",
     "README.md",
+    "SplitGuides/Ps/Ch1-Rouxls.psd",
+    "SplitGuides/Ps/Ch4-TitanQue2.psd",
+    "SplitGuides/Ps/Ch4-TitanQue1.psd",
+    "SplitGuides/Ps/Ch4-Skip1.psd",
+    "SplitGuides/Ps/ps2EF0.tmp",
+    "SplitGuides/Ps/ps28F3.tmp",
+    "SplitGuides/Ps/ps25A7.tmp",
+    "SplitGuides/Ps/ps21FC.tmp",
+    "SplitGuides/Ps/ps1D19.tmp",
+    "SplitGuides/Ps/ps1354.tmp",
+    "Notes/Windows.md",
+    "SplitGuides/UT-TPEG.md",
+    "Data/Quad.md",
+    "MusicMods/Undertale.md",
     "MusicMods/Music Mods - Undertale.md",
-    "MusicMods/Music Mods - Deltarune.md",
-    "MusicMods"
+    "MusicMods/Music Mods - Deltarune.md"
   ]
 }

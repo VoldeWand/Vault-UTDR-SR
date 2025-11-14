@@ -1,10 +1,11 @@
 JP is 3 seconds faster
 ## CH4 - Enter Study ##
+MAKE SURE TCP SERVER IS ON!
+
 Piano 1: ←  ↓  ←  ↓  ←  →
 - LDLDLR
 Piano 2: ↑  ↑  ↓  ↓  ←  ←  →  ↑
 - UUDDLLRU
-
 
 Dark Room:
 - IN:   R U R U L U R U L U R U R
@@ -13,8 +14,8 @@ Dark Room:
 Encounters
 ===
 Double Guei 
-- Exercist (B), Fight, Fight
-- Fight, Fight, Pacify (B)
+- Exercist (Bot, TR), S-Action, R-Action
+- Spare, S-Action, Pacify (16 TP, TR)
 Double Balthizard
 -  Shake, S-Action, Spare
 
@@ -27,44 +28,70 @@ Jackenstein
 - Brighten: 60 TP
 - Collect ALL
 - Scaredy Cat Strat (not until confident)
-- Use TensionGem + TensionBit
 - Stop using Scardy Cat after going up the chimney
 
 --- 
 ## CH4 - Hammer of Justice ##
+Jackenstein Choicer: R
+
 Piano: ↑  N  ↑  ←  ↓  N  →  N  →  ↓  ←  N
 - U N U L D N R N R D L N
 
 The Fight
 - Steps: AAA, H, AA, H, ARA, H, AA, H, A
-- Kindergarten: Take DMG on First Attack
+- Actions: H H R H H
+- Kindergarten: Take DMG on First Attack (last arrow)
 --- 
 ## CH4 - Seal Fountain 1 ##
 Climb to Right Side 2nd Waterfall
 - Get TensionGem
 
+Piano Book Choicers: R, R, L
+
+Mizzle Encounter
+- Def, Def, Pacify
+- Embezzle, (), Pacify
+
+--- 
+## CH4 - Fall Off##
+Climb to Right Side 2nd Waterfall
+- Get TensionGem
+
+Piano Book Choicers: R, R, L
+
+Mizzle Encounter
+- Def, Def, Pacify
+- Embezzle, (), Pacify
+
 --- 
 ## CH4 - Seal Fountain 2 ##
 Winglade Encounter
-- SpinS
-- SpinS
+- SpinS (BL)
+- SpinS (BL)
 - Spare x2
+Wicabel Encounter
+- Tune (TR)
+- Tune (TR)
+- Spare
 Fake Gerson
-- Left Choicer for hearing test
+- Right Choicer for hearing test
 - Kill Susie
-- DO NOT USE TENSIONGEM
+- Use TensionGem
 --- 
 ## CH4 - Start Titan ##
+DONT HEAL
+
 Jackenstein Climbing
 - Tap 'up'
+
 Titan Spawn Encounter
 - Healed before and after
-- Banish: 64 TP
+- Banish (BR): 64 TP
 
 Encounters
 ===
 Book, Winglade:
-- SpinS (B), R-Action (B)
+- SpinS (Bot, BL), R-Action (T)
 - Spare, Spare, R-Action (T)
 Organikk x2 [Dark Room] (if missed skip):
 - Tune x2 (B), R-Action (T)
@@ -78,7 +105,21 @@ Titan Spawn
 Titan Fight
 - Unleashed: 80 TP
 - Brighten: 3, 11
-- Eat Gem after first cycle
+10-Turn 2-Cycle
+- T1: FightAll
+- T2: FightAll
+- T3: FightAll
+- T4: Unleash/Fight/Fight
+- T5: [shield down] FightAll
+- T6: FightAll
+- T7: FightAll
+- T8: FightAll
+- T9: Unleash/Fight/Fight
+- T10: [shield down] FightAll
+Gerson
+- DualBuster (ACT), Defend
+- Defend x3
+- ACT - MASH
 
 --- 
 ## End CH4 ##

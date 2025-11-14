@@ -6,72 +6,121 @@
 	- Check if Recording
 	- Check Virtual Cam
 	- Ensure that Livesplit Server is up
+<img src="Src/TCPServer.png" alt="Board1 Image (Check Path)" width="300"/>
 * Prologue
 	* 1: U Z D R D Z
 	* 2: R U Z D D Z
 
+
 --- 
 ## CH1 - Fields ##
-* Triple Hathy Encounter
-	* Act (get hit)
-	* Spare, Defend
-	* Spare, Spare
-* Get Ralsei Closer to Door
-* Triple Barry Encounter
-	* Fight, Fight
-	* Act, Spare
-* Don't Mess Up Encounter Skip
+Triple Hathy Encounter
+- Act (get hit)
+- Spare, Defend
+- Spare, Spare
+
+Clock Puzzle
+<img src="Src/Ch1-ClockPuzzle.gif" alt="Board1 Image (Check Path)" width="300" height = "250"/>
+Ralsei Back Turn
+<img src="Src/Ch1-RalseiBackTurn.png" alt="Board1 Image (Check Path)" width="150" height = "150"/>
+
+Triple Barry Encounter
+- Fight, Fight
+- Act, Spare
+
+Rudinn4
+<img src="Src/Ch1-Rudinn4.gif" alt="Board1 Image (Check Path)" width="300" height = "250"/>
 
 --- 
 ## CH1 - Checkboard ##
 * Good Movement
-* Get Susie Death!
+
+Susie Death
+<img src="Src/Ch1-SusieDeath.png" alt="Board1 Image (Check Path)" width="300"/>
 
 --- 
 ## CH1 - Forest ##
-* Select Flame Head! (Third Choice)
+Fuck you YZA!
+<img src="Src/Ch1-YZA.gif" alt="Board1 Image (Check Path)" width="300" height="250"/>
+Flame Head! (Third Choice)
+<img src="Src/Ch1-FlameHead.png" alt="Board1 Image (Check Path)" width="300" height="250"/>
+First Bloxer Skip
+<img src="Src/Ch1-BloxerSkip1.gif" alt="Board1 Image (Check Path)" width="300" height ="250"/>
+Second Bloxer Skip
+<img src="Src/Ch1-BloxerSkip2.gif" alt="Board1 Image (Check Path)" width="300" height = "250"/>
 
 --- 
 ## CH1 - Escape ##
-* GIVE ME TP
+Cell Actions
+<img src="Src/Ch1-CellAct.png" width="300" height ="250"/>
+- Interact Chain Twice
+- Obtain IronShackle
+
+Susie Puzzle
+<img src="Src/Ch1-SusiePuzzle.png" width="300" height ="250"/>
+- LEFT, RIGHT, UP, LEFT
 
 --- 
 ## CH1 - Castle ##
-* Turn on Autorun before THHS
-* Turn off Autorun after THHS
-* GET REVIVEMINT? (idk maybe?)
+Head Hathy Skip
+<img src="Src/Ch1-HHS.gif" width="300" height ="250"/>
+Get Revivemint ($200)
+<img src="Src/Ch1-ReviveMint.gif" width="300" height ="250"/>
+<img src="Src/Ch1-ReviveMint.png" width="300" height ="250"/>
+
+BUY AXE
+<img src="Src/Ch1-Rouxls.png" width="300" height ="250"/>
 
 --- 
 ## CH1 - King ##
-* Six Red if I'm Good
+<img src="Src/Ch1-King.png" width="300" height ="250"/>
+Five Red (10-Turn)
+- 2 Fights
+- 5 Red Busters (60 TP)
 
 --- 
 ## End CH1 ##
 RUN!
 
+WR (NERS) has a 26:02.670 for CH1
+
+SWAP TO ENGLISH!
+
 --- 
 ## CH2 - Punch Out ##
-Werewire Encounter
-- Fight, Fight
-- Fight, Fight
-- Defend, Rude Buster
-Minigame
+SWAP TO ENGLISH!
+
+Werewire Encounter (TADYWIRE)
+<img src="Src/Ch2-TadyWire.png" width="300" height ="80"/>
+- JiggleJiggle (Top, TR), Fight (Bot)
+- JiggleJiggle (Top, TR), Spare (Top)
+- Fight All
+
+Punch-Out
+<img src="Src/Ch2-PO-Q1.png" width="300" height ="200"/>
+
+Post-Minigame
+<img src="Src/Ch2-Bosom.png" width="300" height ="75"/>
 - Left Choicer ("Bosom")
 
 --- 
-
 ## CH2 - Berdly 1 ##
 DJ Fight
+<img src="Src/Ch2-Djs.png" width="300" height ="180"/>
 - DanceX Middle
 - S-Action, R-Action on Top, Bottom
-Buy Weapons
-* AutoAx
-* MechaSaber
-To-Do
+
+Buy Weapons ($500)
+<img src="Src/Ch2-Shop.png" width="300" height ="150"/>
+- AutoAx
+- MechaSaber
+
+Smorgasboard Cycle Skip (SCS)
+<img src="Src/Ch2-SCS.gif" width="300" height ="180"/>
 * Get TensionBit
 * Werewire Skip
-* Get Ragger2
-* Equip!
+* Get Ragger2 (Equip All)
+
 Fight Berdly Optimal
 * Fight ALL
 * Fight ALL
@@ -80,26 +129,31 @@ Fight Berdly Optimal
 --- 
 ## CH2 - Mouse Puzzle 2 ##
 Mouse 1 Puzzle
+<img src="Src/Ch2-TilePuzzle1.png" width="300" height ="150"/>
 - D1, R1, Send
-Get Pink Ribbon
+
+Viro Encounter
+- TakeCare (TR), Spare
+
+Pink Ribbon
+<img src="Src/Ch2-PinkRibbon.png" width="300" height ="150"/>
+
+Barrier
+<img src="Src/Ch2-Barrier.png" width="300" height ="150"/>
 - Equip on Barrier Scene
+
 Werewire Skip
 - Stay Top
+
 Mouse 2 Puzzle
-===
-
-0  1  0  1  0 
-0  0  0  0  0  0  0  1
-1  0  0  0  1  0  0  0
-0  0  1  0  0  0  0  1
-
-===
+<img src="Src/Ch2-MousePuzzle3.png" width="300" height ="200"/>
 
 --- 
 ## CH2 - Spamton ##
 Berdly 2 (Unplug Rudy Strat)
 - PlaySmart
-- Fight, Iceshock (till end)
+- Fight, Iceshock (BR) - LOOP
+
 Spamton A. Spamton
 - 1st: Left
 - Rest: Right
@@ -109,47 +163,65 @@ Spamton A. Spamton
 Gifting
 - Noelle (top)
 - Truce (left)
+
 Double Ambulance Encounter
 - Get Hit
 - Spare
+
 Mouse Encounter
 - Fight All
 
 --- 
 ## CH2 - Mansion ##
 Tasque Manager
+<img src="Src/Ch2-TasqueManager.png" width="300" height ="200"/>
 - Left, Bottom, Left
-Ralsei Dialogue 1
-- Left Choicer
-Acid Lake
-- Diagonal
-- Solve
-Raisei Camera
-- Left Choicer
-Lesbian Skip
-- All Right Choicer
+
+Platter: CLOCK-WISE
+<img src="Src/Ch2-Platter.png" width="300" height ="200"/>
+
+Mauswheel: CatchX (BL)
+<img src="Src/Ch2-MausWheel.png" width="300" height ="200"/>
+
+---
+## CH2 - Acid Lake ##
+2 Maus 1 Maus
+
+Ralsei Dialogue 1: Left Choicer
+
+Rouxls
+<img src="Src/Ch2-RouxlsInit.png" width="300" height ="200"/>
+Solutions
+<img src="Src/Ch2-Rouxls1.png" width="300" height ="200"/>
+<img src="Src/Ch2-Rouxls2.png" width="300" height ="200"/>
+<img src="Src/Ch2-Rouxls3.png" width="300" height ="200"/>
+Raisei Camera: Left Choicer
+Lesbian Skip: All Right Choicer
 
 --- 
 ## CH2 - Queen ##
 Werewire Skip
-- BE PATIENT!
+<img src="Src/Ch2-Werewerewire.png" width="300" height ="250"/>
+
 Safe 6-1 Queen
    1: Fight All (MISS 1+)
    2: Defend All
-   3: RedBuster, Fight
+   3: RedBuster, Fight (Def if Miss 1)
    4: [Shd] RBuster, Fight (CRIT!)
-   5: Fight, Fight, Defend
+   5: Fight, Fight, Defend (No Crit)
    6: RedBuster, Fight (CRIT!)
 
 --- 
-## CH2 - Fountain ##
+## CH2 - Giga Queen ##
 Round 1
 - 1: Fight (Crit)
 - 2: Fight (Crit) (leave at low hp)
 - 3: Defend
+
 Round 2
 - 1: Flame Mode
 - 2: Fight
+
 Round 3
 - 1: Flame Mode (graze to 50)
 - 2: Flame Mode (Get hit on Ult)
@@ -160,156 +232,209 @@ THE ROARING THE ROARING THE ROARING THE ROARING THE ROARING THE ROARING THE ROAR
 
 ---
 ## CH3 - Board 1 ##
-Elnina/Lanino
-- 1: ILoveTVX
-- Rest: Defend ALL
+Optimal Path
+- Drink the Fountain
+- LANCER
+- Get Cactus Key
+- Buy 3rd Key
+- Door (Hold Down After Interact)
+- Win the Cooking Show (R for 3 frames): PRESS W
 
-Shadowguy (left) [try to get 66 TP]
-- 1: Defend, S-Action, Pacify
-- 2: Defend, S-Action, Pacify
+<img src="Src/Board1-Game.png" alt="Board1 Image (Check Path)" width="300"/>
 
-Get Lancer (+key)
+Lanino/Elnina (R Fast by 1 Frame)
+- Def, Def, R-Act. THEN, Def ALL
+- Mash C on Turns: 3, 5, 6, Final
 
-Get Shop Key
-
-Door to Cooking Show (right choicer)
-
-Cooking Show 
-- Stack and throw at special guest
+Shadowguys Encounter
+- Defend, S-Action, Pacify x2
 
 --- 
-## CH3 - Board 2 ##
-Get A Rank for TensionGem
+## CH3 - Board 2 (A-RANK) ##
+Buy LodeStone x4 ($880 DD) and Equip
+- Kris: PinkRibbon, LodeStone
+- Susie: IronShackle, LodeStone
+- Ralsei: LodeStone, LodeStone
 
-To-Do
-- Get Camera
-- Get Cactus Photo
-- Go to Raft Path
-- Pippins Encounter
-- "I want everything..." (Right)
-- Flower Photo
-- Red Thing Photo
-- Shuttah Encounter
+Get Started (ALL RIGHT CHOICERS)
+<img src="Src/Board2-IS.png" alt="Board2 Image (Check Path)" width="300" height="100"/>
+
+Optimal Path
+- Camera, Cactus, Right Spawn
+- Puzzle
+<img src="Src/Board2-Puzzle.png" alt="Board2 Image (Check Path)" width="300"/>
+- Deodorant is faster by 0.5 secs
+- "I want everything back to normal" (R Choicer)
+- Flower, Red Horns, Raft
 
 Encounters
-===
-Pippins x2
-- Spare, S-Act, R-Act x3
-Shuttah
-- SpareAll x3
-- Spare, Spare, Defend
+- Pippins: Spare, S-Act, R-Act x3
+- Shuttah: SpareAll x3; Spare, Space, Def
 
 --- 
 ## CH3 - Xbox turn off! ##
-Before Board 3ish
-- Push their Buttons (right)
-- 213 Code
-- Ralsei Yap (up)
-- 1225 Code
-Board 3 Autoscroller
-- TEXT MASH
-- Both Quizes: Mash
-- Tenna Encounter: Mash
-- Enemy 1: SharpShoot (Tenna only)
-- Enemy 2: Volume Up, TurnOff
+PICK UP TENSION GEM
+<img src="Src/Ch3-TensionGem.png" width="300"/>
+
+Zapper: Right Choicer x2
+<img src="Src/Ch3-ZapperInt.png" width="300"/>
+- Buy: Saber10, ToxicAxe
+- EQUIP for KRIS & Susie
+
+Code 1: 213
+Ralsei: Top Choicer
+Code 2: 1225
+
+Mash Quizzes
+
+ShadowGuy: SharpShoot (BL) then Tenna only
+<img src="Src/Ch3-ShadowGuyActs.png" width="300"/>
+
+Zapper: VolumeUp (TR), TurnOff (BR)
+<img src="Src/Ch3-ZapperActs.png" width="300"/>
 
 --- 
 ## CH3 - TV World ##
 Quiz 1: B, A
-Shadowguy Houses
-- Use their shadows
-Raibbick 
-- CroakOn, S-Act, Spare
-After Zippers Room Path
-- Bottom, Top, TOp
+
+ShadowGuy/PippinsX2
+- Defend, S-Act, Pacify
+- Spare, S-Act, R-Act x2
+
+Ribbick Skip: Do a < around trash can
+- CroakOn (TR), S-Act, Spare
+
+Zappers Room Quizzes: Bottom, Top , Top
 
 Rouxls
-- Hit 5/6 Lancers
-- Get hit on yarn attack to encounter skip
-- Mash Text after cutscene
+- 1 Lancer: MASH
+- Get Yarned
+- Mash AFTER scene
+
+Tenna Door: 000000
 
 --- 
 ## CH3 - Tenna Deez ##
-All Turns: ILoveTV, S-Act, R-Act
+
+All Turns: ILoveTV (BOT BL, S-Act, R-Act)
+
 Get hit once on 'turn 2'
+
+Get Low on Final
 
 --- 
 ## End CH3 ##
 Die to Knight LMAO
 
+SPARE if 40> HP
+
 --- 
 ## CH4 - Enter Study ##
 Piano 1: ←  ↓  ←  ↓  ←  →
-- LDLDLR
-Piano 2: ↑  ↑  ↓  ↓  ←  ←  →  ↑
-- UUDDLLRU
+<img src="Src/Ch4-P1.png" alt="Board2 Image (Check Path)" width="300"/>
 
-
-Dark Room:
-- IN:   R U R U L U R U L U R U R
-- OUT:    L D D L D L D L D D L
-
-Encounters
-===
 Double Guei 
-- Exercist (B), Fight, Fight
-- Fight, Fight, Pacify (B)
+- Exercist (Bot, TR), S-Action, R-Action
+- Spare, S-Action, Pacify (16 TP, TR)
+
+Skip 1
+<img src="Src/Ch4-Skip1.png" alt="Board2 Image (Check Path)" width="300"/>
+
 Double Balthizard
 -  Shake, S-Action, Spare
+
+Piano 2: ↑  ↑  ↓  ↓  ←  ←  →  ↑
+- UUDDLLRU
 
 --- 
 ## CH4 - YOUR LONG! ##
 Piano: ←  ↓  ←  →  ↓  ↓  →  →
 - LDLRDDRR 
+- SAVE
 
 Jackenstein
+<img src="Src/Ch4-Jackenstein.png" width="300"/>
 - Brighten: 60 TP
-- Collect ALL
-- Scaredy Cat Strat (not until confident)
+- COLLECT EVERYTHING
 - Use TensionGem + TensionBit
-- Stop using Scardy Cat after going up the chimney
+
+STOP SCAREDYCAT QUE
+<img src="Src/Ch4-JackQ1.png" width="300"/>
+- STOP using Scardy Cat after going up the chimney
 
 --- 
 ## CH4 - Seal Fountain 1 ##
-Climb to Right Side 2nd Waterfall
+Climb 1
+<img src="Src/Ch4-Climb1.png" width="300" height="170"/>
+
+Climb 2
+<img src="Src/Ch4-Climb2.png" width="300" height="200"/>
 - Get TensionGem
 
+Piano Book Choicers: R, R, L
+
+Mizzle Encounter
+- Def, Def, Pacify
+- Embezzle, Pacify
+
+Climb3
+<img src="Src/Ch4-Climb3.png" width="300" height="400"/>
+
 --- 
-## CH4 - Seal Fountain 2 ##
+## CH4 - Fall Off##
 Winglade Encounter
-- SpinS
-- SpinS
+- SpinS (BL) x2
 - Spare x2
+
+Wicabel Encounter
+- Tune (TR) x2
+- Spare 
+
+Climb 4
+<img src="Src/Ch4-Climb4.png" width="300" height="800"/>
+
+---
+## CH4 - Seal Fountain 2 ##
+<img src="Src/Ch4-Climb5.png" width="300" height="500"/>
+
 Fake Gerson
-- Left Choicer for hearing test
+<img src="Src/Ch4-BetterHeal.png" width="300"/>
+- Right Choicer for hearing test
 - Kill Susie
-- DO NOT USE TENSIONGEM
+- TensionGem
+- BetterHeal (TR): 78% TP
+
 --- 
 ## CH4 - Start Titan ##
-Jackenstein Climbing
-- Tap 'up'
-Titan Spawn Encounter
-- Healed before and after
-
-Encounters
-===
 Book, Winglade:
 - SpinS (B), R-Action (B)
 - Spare, Spare, R-Action (T)
+
+Jackenstein Climbing
+- Tap 'up'
+
 Organikk x2 [Dark Room] (if missed skip):
 - Tune x2 (B), R-Action (T)
 - Perform (M), S-Action (T), Spare
 - Spare, Spare, Defend
-Titan Spawn
-- Banish: 64 TP
+
+Titan Spawn Encounter
+<img src="Src/Ch4-SpawnActs.png" alt="Board2 Image (Check Path)" width="300"/>
+- Healed before and after
+- Banish (BR): 64 TP
 
 --- 
 ## CH4 - Titan Fight ##
-Titan Fight
-- Unleashed: 80 TP
-- Brighten: 3, 11
-- Eat Gem after first cycle
+Titan Fight (FIGHT METHOD)
 
+Unleashed (BR): 80 TP 
+<img src="Src/Ch4-TitanActs.png" alt="Board2 Image (Check Path)" width="300"/>
+
+Brighten Ques
+- TURN 3
+<img src="Src/Ch4-TitanQ1.png" alt="Board2 Image (Check Path)" width="300"/>
+- TURN 11 (AFTER 2 LARGE FISHIES)
+<img src="Src/Ch4-TitanQ2.png" alt="Board2 Image (Check Path)" width="300"/>
 --- 
 ## End CH4 ##
 Poor Ralsei :(
